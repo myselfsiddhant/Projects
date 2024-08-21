@@ -2,4 +2,4 @@
 
 Myself Siddhant Priyam Singh, B.Tech Computer Science and Engineering student at Galgotias University.
 
-I upload all the Python projects that I work on to this GitHub repository.
+I've uploaded all the Python projects that I have worked on to this GitHub repository.
